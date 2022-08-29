@@ -13,9 +13,9 @@ int main()
   cin >> secondNum;
   
   if(firstNum > secondNum) {
-    cout << "The smaller of the two is " << secondNum;
+    cout << "The smaller of the two is " << secondNum << "\n";
   } else {
-    cout << "The smaller of the two is " << firstNum;
+    cout << "The smaller of the two is " << firstNum << "\n";
   }
   
   return 0;
